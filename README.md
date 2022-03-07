@@ -2,6 +2,8 @@
 
 
 残念なことにFacebookアカウントではログインできません
+
+
 NetlifyへのDeployも失敗しました
 
 
